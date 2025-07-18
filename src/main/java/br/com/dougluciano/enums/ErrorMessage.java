@@ -6,7 +6,7 @@ package br.com.dougluciano.enums;
 public enum ErrorMessage {
 
     API_STATUS_CODE_ERROR("Error! The API returned a status code: "),
-    REQUEST_ERROR("An error occured on ViaCEP request: ");
+    REQUEST_ERROR("An error occurred on ViaCEP request: ");
 
     private final String message;
 
